@@ -1,6 +1,6 @@
 # Changelog 
 
-ALl notable changes to ``laravel-form-helpers` will be documented in this file. 
+ALl notable changes to `laravel-form-helpers` will be documented in this file. 
 
 ## 0.1.0 - 2018-11-26
 
