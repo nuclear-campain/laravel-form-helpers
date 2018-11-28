@@ -1,4 +1,4 @@
-git add # Changelog 
+# Changelog 
 
 ALl notable changes to ``laravel-form-helpers` will be documented in this file. 
 
